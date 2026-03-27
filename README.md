@@ -29,13 +29,13 @@ Financial controlling dashboard analyzing budget vs. actual costs with variance 
 
 ## 📈 Monthly Variance Analysis
 
-![Monthly Analysis](Monatliche Abweichungsanalyse.png)
+![Monthly Analysis](Monatliche-Abweichungsanalyse.png)
 
 ---
 
 ## 📊 Variance by Cost Type
 
-![Cost Type Analysis](Abweichungsanalyse nach Kostenart.png)
+![Cost Type Analysis](Abweichungsanalyse-nach Kostenart.png)
 
 ---
 
